@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SimpleCRUD - PHP</title>
     <script src="./public/jquery/jquery.min.js"></script>
-    <link href="./public/boostrap/css/bootstrap.min.css" rel="stylesheet" >
-    <script src="./public/boostrap/js/bootstrap.min.js"></script>
+    <link href="./public/bootstrap/css/bootstrap.min.css" rel="stylesheet" >
+    <script src="./public/bootstrap/js/bootstrap.min.js"></script>
     <link href="./public/fontawesome/css/all.min.css">
     <script src="./public/fontawesome/js/all.min.js"></script>
     <link href="./public/toastr/css/toastr.min.css" rel="stylesheet"/>
